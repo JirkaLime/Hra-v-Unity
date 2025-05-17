@@ -1,5 +1,9 @@
 # 🚌 I Wanna Catch the Bus! / Chyť autobus!
 
+<p align="center">
+  <img src="Cover.png" alt="Cover" width="630">
+</p>
+
 ## 🎯 Cíl projektu
 Cílem ročníkového projektu bylo vytvořit vlastní 2D plošinovou hru inspirovanou titulem *I Wanna Be The Guy*, která kombinuje vysokou obtížnost a zábavnou prezentaci. Hráč se snaží doběhnout na zastávku a chytit autobus přes sérii nástrah a přesných skoků.  
 Projekt byl vytvořen jako součást školní výuky, samostatně a od nuly.
