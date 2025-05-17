@@ -12,6 +12,11 @@ Projekt jsem vytvořil samostatně a od nuly.
 - Ve složce **Build** se nachází sestavená hra.
 - Pro spuštění stačí otevřít soubor **.exe** (`IWCTB.exe`).
 - Není nutné nic instalovat – hra běží přímo.
+  
+### 🌐 Webová verze (Itch.io)
+- Projekt je možné spustit i **online** přes Itch.io bez stahování zde [Jirkalime.Itch.io/I-Wanna-Catch-the-Bus](https://jirkalime.itch.io/i-wanna-catch-the-bus).
+- Kvůli omezením platformy **WebGL** však **nemusí fungovat ideálně** (např. horší výkon, grafické chyby).
+- **Doporučuji hrát staženou `.exe` verzi**, která zajišťuje správnou funkčnost a plynulost, ale možnost zde je.
 
 ## 🧪 Zdrojový kód
 - Nachází se ve složce **Assets**.
