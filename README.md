@@ -10,7 +10,7 @@ Projekt jsem vytvořil samostatně a od nuly.
 
 ## 🔧 Jak spustit
 - Ve složce **Build** se nachází sestavená hra.
-- Pro spuštění stačí otevřít soubor **.exe** (např. `nazev_projektu.exe`).
+- Pro spuštění stačí otevřít soubor **.exe** (`IWCTB.exe`).
 - Není nutné nic instalovat – hra běží přímo.
 
 ## 🧪 Zdrojový kód
