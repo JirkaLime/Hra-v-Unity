@@ -38,7 +38,7 @@ Projekt jsem vytvořil samostatně a od nuly.
   - Více druhů pastí
   - Více levelů
 
-### 📸 Fotodokumentace
+## 📸 Fotodokumentace
 <p align="center">
   <img src="Images/lvl1.png" alt="Level 1" width="30%" style="margin-right: 10px;">
   <img src="Images/lvl2.png" alt="Level 2" width="30%" style="margin: 0 10px;">
