@@ -60,6 +60,7 @@ Projekt byl vytvořen jako součást školní výuky, samostatně a od nuly.
 **Zdroj:** ADATA XPG Core Reactor Gold 850W  
 **Skříň:** NZXT H5 Flow RGB  
 **OS:** Windows 11
+
 **Monitor:** Dell Alienware AW2723DF
 
 ## 🙏 Poděkování
