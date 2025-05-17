@@ -16,7 +16,7 @@ Projekt jsem vytvořil samostatně a od nuly.
 ### 🌐 Webová verze (Itch.io)
 - Projekt je možné spustit i **online** přes Itch.io bez stahování zde [Jirkalime.Itch.io/I-Wanna-Catch-the-Bus](https://jirkalime.itch.io/i-wanna-catch-the-bus).
 - Kvůli omezením platformy **WebGL** však **nemusí fungovat ideálně** (např. horší výkon, grafické chyby).
-- **Doporučuji hrát na fullscreen.
+- Doporučuji hrát na **Fullscreen**.
 
 ## 🧪 Zdrojový kód
 - Nachází se ve složce **Assets**.
