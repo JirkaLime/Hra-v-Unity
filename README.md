@@ -28,11 +28,11 @@ Projekt jsem vytvořil samostatně a od nuly.
 - Většina nástrojů, systémů a skriptů pro základní fungování hry je již hotová.
 - Hra je nyní plně připravená k rozšiřování – lze snadno přidávat nové úrovně, pasti a herní prvky.
 
-# Největší problémy při vývoji:
+### Největší problémy při vývoji:
   - Bugy s kolizí a resetem checkpointů
   - Celková optimalizace
   - UI scaling
-# Vylepšení do budoucna:
+### Vylepšení do budoucna:
   - Lokalizace do češtiny i angličtiny
   - Hudba do pozadí
   - Více druhů pastí
