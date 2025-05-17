@@ -6,7 +6,6 @@
 
 ## 🎯 Cíl projektu
 Cílem ročníkového projektu bylo vytvořit vlastní 2D plošinovou hru inspirovanou titulem *I Wanna Be The Guy*, která kombinuje vysokou obtížnost a zábavnou prezentaci. Hráč se snaží doběhnout na zastávku a chytit autobus přes sérii nástrah a přesných skoků.  
-Projekt jsem vytvořil samostatně a od nuly.
 
 ## 🔧 Jak spustit
 - Ve složce **Build** se nachází sestavená hra.
@@ -50,7 +49,7 @@ Projekt jsem vytvořil samostatně a od nuly.
   <img src="Images/lvl3.png" alt="Level 3" width="30%" style="margin-left: 10px;">
 </p>
 
-## 🎥 Video prezentace
+## 🎥 Video
 [![Watch the video](https://img.youtube.com/vi/KHIzCDovQJI/maxresdefault.jpg)](https://youtu.be/KHIzCDovQJI)
 ### [Zde je celé video:](https://youtu.be/KHIzCDovQJI)
 
