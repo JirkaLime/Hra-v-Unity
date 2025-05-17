@@ -6,7 +6,7 @@
 
 ## 🎯 Cíl projektu
 Cílem ročníkového projektu bylo vytvořit vlastní 2D plošinovou hru inspirovanou titulem *I Wanna Be The Guy*, která kombinuje vysokou obtížnost a zábavnou prezentaci. Hráč se snaží doběhnout na zastávku a chytit autobus přes sérii nástrah a přesných skoků.  
-Projekt byl vytvořen jako součást školní výuky, samostatně a od nuly.
+Projekt jsem vytvořil samostatně a od nuly.
 
 ## 🧠 Současný stav
 - Hra má funkční jádro – pohyb postavy, kolize, respawn, checkpointy, nástrahy, funkční menu.
@@ -68,16 +68,16 @@ Projekt byl vytvořen jako součást školní výuky, samostatně a od nuly.
 Děkuji **ChatGPT** za pomoc při odhalování a řešení chyb v kódu během vývoje.
 
 ## 📚 Citace a použité zdroje
-- https://www.spriters-resource.com/
-- https://learn.unity.com/
-- https://chat.openai.com/
-- https://docs.unity3d.com/
-- https://assetstore.unity.com/
+(1) SPRITERS RESOURCE. The Spriters Resource. Online. © 2025. Dostupné z: https://www.spriters-resource.com/. [cit. 2025-05-17].
+(2) UNITY TECHNOLOGIES. Unity Learn. Online. © 2025. Dostupné z: https://learn.unity.com/. [cit. 2025-05-17].
+(3) OPENAI. ChatGPT. Online. © 2025. Dostupné z: https://chat.openai.com/. [cit. 2025-05-17].
+(4) UNITY TECHNOLOGIES. Unity Documentation. Online. © 2025. Dostupné z: https://docs.unity3d.com/. [cit. 2025-05-17].
+(5) UNITY TECHNOLOGIES. Unity Asset Store. Online. © 2025. Dostupné z: https://assetstore.unity.com/. [cit. 2025-05-17].
 
 ## 📖 Doporučená literatura
-- Unity Learn Tutorials – https://learn.unity.com/
-- Oficiální dokumentace Unity – https://docs.unity3d.com/
-- YouTube kanály: Brackeys, Code Monkey, Game Dev Guide
+[1] UNITY TECHNOLOGIES. Unity Learn Tutorials. Online. © 2025. Dostupné z: https://learn.unity.com/. [cit. 2025-05-17].
+[2] UNITY TECHNOLOGIES. Oficiální dokumentace Unity. Online. © 2025. Dostupné z: https://docs.unity3d.com/. [cit. 2025-05-17].
+[3] YouTube kanály: Brackeys, Code Monkey, Game Dev Guide. [cit. 2025-05-17].
 
 ## ⚖️ Licence
 Tento projekt je vytvořen pro školní účely a není určen k veřejné distribuci. Veškeré použité assety podléhají licencím svých původních autorů.
