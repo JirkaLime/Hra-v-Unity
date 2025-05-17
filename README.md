@@ -11,14 +11,14 @@ Projekt byl vytvořen jako součást školní výuky, samostatně a od nuly.
 ## 🧠 Současný stav
 - Hra má funkční jádro – pohyb postavy, kolize, respawn, checkpointy, nástrahy, funkční menu.
 - Je možné ji dohrát od začátku do konce.
-- Základní obrazovky: hlavní menu, gameplay, konec.
+- Základní obrazovky: hlavní menu -> 3x levely -> konec.
 - Vizuálně a designově připomíná styl I Wanna Be The Guy.
 - Projekt byl vyvíjen samostatně. Mám předchozí zkušenosti s Unity 2D i 3D, ale i tak bylo náročné ladit některé chyby.
 - Při vývoji jsem využíval AI (ChatGPT) ke **diagnostice chyb a návrhu jejich řešení**, případně optimalizaci kódu.
 - Většina nástrojů, systémů a skriptů pro základní fungování hry je již hotová.
 - Hra je nyní plně připravená k rozšiřování – lze snadno přidávat nové úrovně, pasti a herní prvky.
-Největší problémy:
-- Největší problémy:
+
+- Největší problémy při vývoji:
   - Bugy s kolizí a resetem checkpointů
   - Celková optimalizace
   - UI scaling
@@ -31,17 +31,20 @@ Největší problémy:
 ### 📸 Fotodokumentace
 *fotky*
 
+## 🎥 Video prezentace
+*video*
+
 ### 📝 Použité technologie a nástroje
 - **Engine:** Unity 2022.3.61f1 (2D - Universal Render Pipeline *URP*)
 - **Jazyk:** C# (Visual Studio 2020)
 - **Grafika:** Aseprite, Photoshop
 - **Zvuk:** Audacity
 - **Video/editace:** DaVinci Resolve
-- 
 
 ### 📦 Použité assety
-- Většina assetů pochází z [sprite-resources.com](https://www.spriters-resource.com/)
-- Hudba a zvuky – převážně volně dostupné nebo vlastní tvorba (upřesníš případně později)
+- Většina assetů pochází z [Sprites-Resources.com](https://www.spriters-resource.com/)
+- Mix zvuků a efektů pochází z [Sounds-Resources.com](https://www.sounds-resource.com/)
+- Reference pro assety pochází z [Pinterest.com](https://cz.pinterest.com/)
 
 ## 💻 Použitý hardware
 **Procesor:** AMD Ryzen 7 7800X3D  
@@ -54,10 +57,6 @@ Největší problémy:
 **Skříň:** NZXT H5 Flow RGB  
 **OS:** Windows 11
 **Monitor:** LCD monitor 27" Dell Alienware AW2723DF
-
-
-## 🎥 Video prezentace
-*video*
 
 ## 🙏 Poděkování
 Děkuji **ChatGPT** za pomoc při odhalování a řešení chyb v kódu během vývoje.
