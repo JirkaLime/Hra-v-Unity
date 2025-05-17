@@ -52,32 +52,31 @@ Projekt jsem vytvořil samostatně a od nuly.
 - Reference pro assety pochází z [Pinterest.com](https://cz.pinterest.com/)
 
 ## 💻 Použitý hardware
-**Procesor:** AMD Ryzen 7 7800X3D  
-**Základní deska:** MSI MAG B650 TOMAHAWK WIFI  
-**Paměť:** 32 GB DDR5 6000MHz CL36 Kingston FURY Beast RGB  
-**SSD:** Kingston FURY Renegade NVMe 2TB  
-**Grafická karta:** SAPPHIRE NITRO+ AMD Radeon RX 7900 XT Vapor-X 20G  
-**Chladič:** Endorfy Fortis 5 Dual Fan  
-**Zdroj:** ADATA XPG Core Reactor Gold 850W  
-**Skříň:** NZXT H5 Flow RGB  
-**OS:** Windows 11
-
-**Monitor:** Dell Alienware AW2723DF
+- **Procesor:** AMD Ryzen 7 7800X3D  
+- **Základní deska:** MSI MAG B650 TOMAHAWK WIFI  
+- **Paměť:** 32 GB DDR5 6000MHz CL36 Kingston FURY Beast RGB  
+- **SSD:** Kingston FURY Renegade NVMe 2TB  
+- **Grafická karta:** SAPPHIRE NITRO+ AMD Radeon RX 7900 XT Vapor-X 20G  
+- **Chladič:** Endorfy Fortis 5 Dual Fan  
+- **Zdroj:** ADATA XPG Core Reactor Gold 850W  
+- **Skříň:** NZXT H5 Flow RGB  
+- **OS:** Windows 11
+- **Monitor:** Dell Alienware AW2723DF
 
 ## 🙏 Poděkování
 Děkuji **ChatGPT** za pomoc při odhalování a řešení chyb v kódu během vývoje.
 
 ## 📚 Citace a použité zdroje
-(1) SPRITERS RESOURCE. The Spriters Resource. Online. © 2025. Dostupné z: https://www.spriters-resource.com/. [cit. 2025-05-17].
-(2) UNITY TECHNOLOGIES. Unity Learn. Online. © 2025. Dostupné z: https://learn.unity.com/. [cit. 2025-05-17].
-(3) OPENAI. ChatGPT. Online. © 2025. Dostupné z: https://chat.openai.com/. [cit. 2025-05-17].
-(4) UNITY TECHNOLOGIES. Unity Documentation. Online. © 2025. Dostupné z: https://docs.unity3d.com/. [cit. 2025-05-17].
-(5) UNITY TECHNOLOGIES. Unity Asset Store. Online. © 2025. Dostupné z: https://assetstore.unity.com/. [cit. 2025-05-17].
+- (1) SPRITERS RESOURCE. The Spriters Resource. Online. © 2025. Dostupné z: https://www.spriters-resource.com/. [cit. 2025-05-17].
+- (2) UNITY TECHNOLOGIES. Unity Learn. Online. © 2025. Dostupné z: https://learn.unity.com/. [cit. 2025-05-17].
+- (3) OPENAI. ChatGPT. Online. © 2025. Dostupné z: https://chat.openai.com/. [cit. 2025-05-17].
+- (4) UNITY TECHNOLOGIES. Unity Documentation. Online. © 2025. Dostupné z: https://docs.unity3d.com/. [cit. 2025-05-17].
+- (5) UNITY TECHNOLOGIES. Unity Asset Store. Online. © 2025. Dostupné z: https://assetstore.unity.com/. [cit. 2025-05-17].
 
 ## 📖 Doporučená literatura
-[1] UNITY TECHNOLOGIES. Unity Learn Tutorials. Online. © 2025. Dostupné z: https://learn.unity.com/. [cit. 2025-05-17].
-[2] UNITY TECHNOLOGIES. Oficiální dokumentace Unity. Online. © 2025. Dostupné z: https://docs.unity3d.com/. [cit. 2025-05-17].
-[3] YouTube kanály: Brackeys, Code Monkey, Game Dev Guide. [cit. 2025-05-17].
+- [1] UNITY TECHNOLOGIES. Unity Learn Tutorials. Online. © 2025. Dostupné z: https://learn.unity.com/. [cit. 2025-05-17].
+- [2] UNITY TECHNOLOGIES. Oficiální dokumentace Unity. Online. © 2025. Dostupné z: https://docs.unity3d.com/. [cit. 2025-05-17].
+- [3] YouTube kanály: Brackeys, Code Monkey, Game Dev Guide. [cit. 2025-05-17].
 
 ## ⚖️ Licence
 Tento projekt je vytvořen pro školní účely a není určen k veřejné distribuci. Veškeré použité assety podléhají licencím svých původních autorů.
