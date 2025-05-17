@@ -68,10 +68,12 @@ Děkuji **ChatGPT** za pomoc při odhalování a řešení chyb v kódu během v
 
 ## 📚 Citace a použité zdroje
 - (1) SPRITERS RESOURCE. The Spriters Resource. Online. © 2025. Dostupné z: https://www.spriters-resource.com/. [cit. 2025-05-17].
-- (2) UNITY TECHNOLOGIES. Unity Learn. Online. © 2025. Dostupné z: https://learn.unity.com/. [cit. 2025-05-17].
-- (3) OPENAI. ChatGPT. Online. © 2025. Dostupné z: https://chat.openai.com/. [cit. 2025-05-17].
-- (4) UNITY TECHNOLOGIES. Unity Documentation. Online. © 2025. Dostupné z: https://docs.unity3d.com/. [cit. 2025-05-17].
-- (5) UNITY TECHNOLOGIES. Unity Asset Store. Online. © 2025. Dostupné z: https://assetstore.unity.com/. [cit. 2025-05-17].
+- (2) SOUNDS RESOURCE. The Sounds Resource. Online. © 2025. Dostupné z: https://www.sounds-resource.com/. [cit. 2025-05-17].
+- (3) PINTEREST. Pinterest. Online. © 2025. Dostupné z: https://www.pinterest.com/. [cit. 2025-05-17].
+- (4) UNITY TECHNOLOGIES. Unity Learn. Online. © 2025. Dostupné z: https://learn.unity.com/. [cit. 2025-05-17].
+- (5) OPENAI. ChatGPT. Online. © 2025. Dostupné z: https://chat.openai.com/. [cit. 2025-05-17].
+- (6) UNITY TECHNOLOGIES. Unity Documentation. Online. © 2025. Dostupné z: https://docs.unity3d.com/. [cit. 2025-05-17].
+- (7) UNITY TECHNOLOGIES. Unity Asset Store. Online. © 2025. Dostupné z: https://assetstore.unity.com/. [cit. 2025-05-17].
 
 ## 📖 Doporučená literatura
 - [1] UNITY TECHNOLOGIES. Unity Learn Tutorials. Online. © 2025. Dostupné z: https://learn.unity.com/. [cit. 2025-05-17].
