@@ -1,7 +1,7 @@
 # 🚌 I Wanna Catch the Bus! / Chyť autobus!
 
 <p align="center">
-  <img src="Cover.png" alt="Cover" width="630">
+  <img src="Images/Cover.png" alt="Cover" width="630">
 </p>
 
 ## 🎯 Cíl projektu
@@ -29,7 +29,11 @@ Projekt byl vytvořen jako součást školní výuky, samostatně a od nuly.
   - Více levelů
 
 ### 📸 Fotodokumentace
-*fotky*
+<p align="center">
+  <img src="Images/lvl1.png" alt="Level 1" width="30%" style="margin-right: 10px;">
+  <img src="Images/lvl2.png" alt="Level 2" width="30%" style="margin: 0 10px;">
+  <img src="Images/lvl3.png" alt="Level 3" width="30%" style="margin-left: 10px;">
+</p>
 
 ## 🎥 Video prezentace
 *video*
@@ -56,7 +60,7 @@ Projekt byl vytvořen jako součást školní výuky, samostatně a od nuly.
 **Zdroj:** ADATA XPG Core Reactor Gold 850W  
 **Skříň:** NZXT H5 Flow RGB  
 **OS:** Windows 11
-**Monitor:** LCD monitor 27" Dell Alienware AW2723DF
+**Monitor:** Dell Alienware AW2723DF
 
 ## 🙏 Poděkování
 Děkuji **ChatGPT** za pomoc při odhalování a řešení chyb v kódu během vývoje.
