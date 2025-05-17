@@ -8,6 +8,16 @@
 Cílem ročníkového projektu bylo vytvořit vlastní 2D plošinovou hru inspirovanou titulem *I Wanna Be The Guy*, která kombinuje vysokou obtížnost a zábavnou prezentaci. Hráč se snaží doběhnout na zastávku a chytit autobus přes sérii nástrah a přesných skoků.  
 Projekt jsem vytvořil samostatně a od nuly.
 
+## 🔧 Jak spustit
+- Ve složce **Build** se nachází sestavená hra.
+- Pro spuštění stačí otevřít soubor **.exe** (např. `nazev_projektu.exe`).
+- Není nutné nic instalovat – hra běží přímo.
+
+## 🧪 Zdrojový kód
+- Nachází se ve složce **Assets**.
+- Obsahuje všechny **Unity Assety**, skripty, scény, materiály a prefaby.
+- Projekt lze otevřít pomocí **Unity Hub** (doporučená verze je `Unity 2022.3.61f1` nebo novější).
+
 ## 🧠 Současný stav
 - Hra má funkční jádro – pohyb postavy, kolize, respawn, checkpointy, nástrahy, funkční menu.
 - Je možné ji dohrát od začátku do konce.
