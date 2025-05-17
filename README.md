@@ -36,7 +36,8 @@ Projekt byl vytvořen jako součást školní výuky, samostatně a od nuly.
 </p>
 
 ## 🎥 Video prezentace
-*video*
+[![Watch the video](https://img.youtube.com/vi/KHIzCDovQJI/maxresdefault.jpg)](https://youtu.be/KHIzCDovQJI)
+### [Zde je celé video:](https://youtu.be/KHIzCDovQJI)
 
 ### 📝 Použité technologie a nástroje
 - **Engine:** Unity 2022.3.61f1 (2D - Universal Render Pipeline *URP*)
